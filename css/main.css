@@ -15,10 +15,7 @@ header {
 	background-color:#333;
 	height:180px;
 }
-h2 {
-	padding:125px 0px 0px 220px;
-	color:#fff;
-}
+
 .upper-right {
 	position:absolute;
 	top:0;
@@ -99,6 +96,20 @@ nav a:hover {
 	border-radius: 10px;
 	position:relative;
 }
+h2 {
+	padding:125px 0px 0px 220px;
+	color:#fff;
+}
+h3, h4 {
+	padding-top:15px;
+}
+#content a {
+	color:#66480A;
+	text-decoration:none;
+}
+#content a:hover {
+	color:#B27E20;
+}
 #slogan {
 	color:#B27E20;
 	font-family:"Times New Roman", Times, serif;
@@ -122,6 +133,7 @@ nav a:hover {
 }
 #contact-info a {
 	color:#66480A;
+	text-decoration:none;
 }
 #contact-info a:hover {
 	color:#B27E20;
@@ -139,12 +151,19 @@ nav a:hover {
 }
 #contact-info2 a {
 	color:#66480A;
+	text-decoration:none;
 }
 #contact-info2 a:hover {
 	color:#B27E20;
 }
 .right {
 	float:right;
+}
+#content p span {
+	font-style:italic;
+}
+#content ul {
+	padding:0px 150px 0px 30px;
 }
 
 footer {
