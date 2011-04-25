@@ -1,36 +1,7 @@
-<!DOCTYPE HTML>
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Imelda Guzman, Web Content Developer &amp; Designer, Portfolio</title>
-<link rel="stylesheet" type="text/css" href="../css/main.css" />
-<!--[if lt IE 9]>
-<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
-</head>
-<body>
-<header>
-  <div class="container">
-    <h2>Three Piece Design</h2>
-    <img class="upper-right" src="../images/florals_04.png" /> <img class="upper-left" src="../images/florals_02.png" /> <a href="../index.html"><img src="../images/logo/tpd.png" /></a>
-    <div id="header-box1">
-      <div id="header-box2"> </div>
-    </div>
-  </div>
-</header>
-<section>
-  <nav>
-    <ul>
-      <li><a href="../index.html">Home</a></li>
-      <li><a href="about.html">About</a></li>
-      <li><a href="resume.html">Resume</a></li>
-      <li><a href="portfolio.html">Portfolio</a></li>
-      <li><a href="contact.html">Contact</a></li>
-    </ul>
-  </nav>
-  <div id="content-box1">
-    <div id="content-box2">
-      <article id="content">
+<?php
+	$title = 'Resume';
+	include('../header.php');
+?>
         <h1>R&eacute;sum&eacute;</h1>
         <div id="contact-info2">
           <p>945 Deturk Ave. Santa Rosa, CA<br />
@@ -87,16 +58,4 @@
         <li>BA in Art Studio</li>
         </ul>
         <p>Concentration in Art Studio with an emphasis in painting. Received professional Curatorial skills during Curatorial Internship at local gallery.</p>       
-      </article>
-    </div>
-  </div>
-</section>
-<footer>
-  <div class="container"> <img class="bottom-left" src="../images/florals_11.png" /> <img class="bottom-right" src="../images/florals_09.png" />
-    <div id="footer-box1">
-      <div id="footer-box2"> </div>
-    </div>
-  </div>
-</footer>
-</body>
-</html>
+<?php include('../footer.php'); ?>
