@@ -2,6 +2,9 @@
 	margin:0px;
 	padding:0px;
 }
+header, nav, section, article, footer {
+	display: block;
+}
 
 body {
 	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
