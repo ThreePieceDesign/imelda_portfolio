@@ -3,7 +3,7 @@
 	include('../header.php');
 ?>
         <h2>R&eacute;sum&eacute;</h2>
-        <p><a href="../pdf/resume"><img src="../images/pdficon_small.gif" alt="PDF Icon" /> Printable Resume</a></p>
+        <p><a href="../pdf/resume.pdf"><img src="../images/pdficon_small.gif" alt="PDF Icon" /> Printable Resume</a></p>
         <div id="contact-info2">
           <p>945 Deturk Ave. Santa Rosa, CA<br />
             Cell: 559-250-5980, <a href="mailto:imelda@threepiecedesign.com">imelda@threepiecedesign.com</a></p>
