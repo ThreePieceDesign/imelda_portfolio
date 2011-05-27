@@ -2,7 +2,8 @@
 	$title = 'Resume';
 	include('../header.php');
 ?>
-        <h1>R&eacute;sum&eacute;</h1>
+        <h2>R&eacute;sum&eacute;</h2>
+        <p><a href="../pdf/resume"><img src="../images/pdficon_small.gif" alt="PDF Icon" /> Printable Resume</a></p>
         <div id="contact-info2">
           <p>945 Deturk Ave. Santa Rosa, CA<br />
             Cell: 559-250-5980, <a href="mailto:imelda@threepiecedesign.com">imelda@threepiecedesign.com</a></p>
@@ -44,13 +45,13 @@
         Creating quality, functional designs for clients looking to expand and market their business.</p>
         <h4>Education</h4>
         <h5>Santa Rosa Junior College</h5>
-        <p>Currently Enrolled- Santa Rosa, CA</p>
+        <p>Graduated 2011- Santa Rosa, CA</p>
         <h5>Certification</h5>
         <ul>
         <li>HTML Web Content Developer</li>
         <li>Web Design</li>
         </ul>
-        <p>Continuing education in the field of computer studies.</p>        
+        <p>Concentration in the field of computer studies.</p>        
         <h5>Sonoma State University</h5>
         <p>Graduated 2008- Rohnert Park, CA</p>
         <h5>Degree</h5>
