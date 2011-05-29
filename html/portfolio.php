@@ -17,6 +17,14 @@
                 </p>
                 <p>Print media using Illustrator.  Class project created in Fall of 2010.</p>
             </div>
+            <div class="portfolio-box">
+                <p class="center">
+                	<a href="/images/ezflight_index.jpg" rel="ezflight" title="Ezflight Home Page"><img src="/images/ezflight_index_tn.jpg" rel="ezflight" alt="Ezflight Home Page" title="Ezflight Home Page" /></a>
+                    <a href="/images/ezflight_subpage1.jpg" rel="ezflight" title="Ezflight Secondary Page"></a>
+                    <a href="/images/ezflight_subpage2.jpg" rel="ezflight" title="Ezflight Secondary Page"></a>
+                </p>
+                <p>Website for printing company.  Acting designer and developer for the project.  Project created on Oct, 2010.</p>
+            </div>
         </div>
         <div id="contact-info">
         	<strong>For Services, Telephone or email</strong><br />
