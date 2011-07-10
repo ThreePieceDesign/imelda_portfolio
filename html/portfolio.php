@@ -17,7 +17,7 @@
                     <a href="/images/joynaheinz-subpage1.jpg" rel="joyna" title="Joyna Heinz Secondary Page"></a>
                     <a href="/images/joynaheinz-subpage2.jpg" rel="joyna" title="Joyna Heinz Secondary Page"></a>
                 </p>
-                <p>Website for local Artist, Joyna Heinz.  Acting developer for project. Project created in June 2011./p>
+                <p>Website for local Artist, Joyna Heinz.  Acting developer for project. Project created in June 2011.</p>
             </div>
             <div class="portfolio-box">
                 <p class="center">
